@@ -108,17 +108,17 @@ const haran = {
 </td>
 <td width="50%">
 
-### 🍽️ Restaurant Management System
-> *Full-stack production-grade app*
+### ✨ Timeless Aura (Ecommerce Platform)
+> *Full-stack production-grade eCommerce application*
 
-- 🔑 JWT Authentication & authorization
-- 🏗️ Clean Architecture pattern
-- 📦 Full CRUD with PostgreSQL + Prisma
-- 🔴 Redis caching layer
-- ☁️ Cloudinary for image storage
-- 🏠 Deployed on Hostinger
+- 🛍️ Complete shopping flow (Products, Cart, Orders)
+- 🔐 Secure Authentication & session management
+- 💳 Razorpay payment gateway integration
+- 🗂️ Dynamic product & order management with MongoDB
+- 🎨 Server-side rendering using EJS
+- 🌐 Deployed for real-world usage
 
-**Stack:** `TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Redis` `Tailwind`
+**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `JavaScript` `Razorpay`
 
 </td>
 </tr>
