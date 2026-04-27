@@ -145,16 +145,6 @@ const haran = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=haranck&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
