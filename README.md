@@ -27,10 +27,10 @@ const haran = {
   name        : "Haran CK",
   role        : "Full Stack Developer",
   location    : "India 🇮🇳",
-  focus       : ["Clean Architecture", "Scalable Systems", "Real-world Apps"],
-  currentBuild: "Projexa — Project Management SaaS 🚀",
+  focus       : ["Clean Architecture", "Scalable Systems", "Production-ready Apps"],
+  currentBuild: "Projexa — a scalable Project Management SaaS 🚀",
   strengths   : ["JWT Auth", "Redis Caching", "PostgreSQL", "System Design"],
-  funFact     : "I don't just build projects — I build systems that scale ⚡",
+  funFact     : "I don’t just build apps — I architect systems that scale ⚡",
 };
 ```
 
