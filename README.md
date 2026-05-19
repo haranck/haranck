@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haran%20CK&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=65&descSize=20" width="100%"/>
 
@@ -437,3 +437,4 @@ Deployment:
 ![Made with ❤️](https://img.shields.io/badge/Made%20with%20❤️%20-16C79A?style=flat-square)
 
 </div>
+](https://timeless.haranck.online/)
