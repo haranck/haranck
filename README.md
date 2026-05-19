@@ -135,24 +135,11 @@ const haran = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=haranck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=16C79A&icon_color=16C79A&text_color=FFFFFF" 
-  />
+<div align="center">
 
-  <img 
-    width="37%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haranck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=16C79A&text_color=FFFFFF" 
-  />
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=haranck&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img 
-    width="60%" 
-    src="https://streak-stats.demolab.com?user=haranck&theme=tokyonight&hide_border=true&background=0D1117&ring=16C79A&fire=16C79A&currStreakLabel=16C79A" 
-  />
-</p>
+</div>
 
 ---
 
