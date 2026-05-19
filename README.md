@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haran%20CK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haran Krishna%20CK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+Enthusiast;Building+Projexa+-+Project+Mgmt+SaaS;I+build+systems+that+scale+%E2%9A%A1" alt="Typing SVG" />
 
@@ -19,6 +19,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/haranck/haranck/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ## 🧠 About Me
 
@@ -170,11 +176,7 @@ const haran = {
 
 ## 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/haranck/haranck/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 > **Note:** To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — see [platane/snk](https://github.com/Platane/snk).
 
