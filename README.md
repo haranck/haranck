@@ -172,7 +172,7 @@ const haran = {
 
 <div align="center">
 
-![Snake animation](https://github.com/haranck/haranck/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/haranck/haranck/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
