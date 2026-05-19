@@ -155,7 +155,7 @@ const haran = {
 
 <div align="center">
 
-[![Haran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haranck&bg_color=0d1117&color=16c79a&line=16c79a&point=ffffff&area=true&area_color=16c79a&hide_border=true)](https://github.com/haranck)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haranck&custom_title=Haran%20Krishna%20CK's%20Contribution%20Graph&bg_color=0D1117&color=16C79A&line=00E676&point=FFFFFF&area=true&hide_border=true&radius=16" width="95%"/>
 
 </div>
 
