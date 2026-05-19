@@ -174,10 +174,6 @@ const haran = {
 
 ---
 
-> **Note:** To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — see [platane/snk](https://github.com/Platane/snk).
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
