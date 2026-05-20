@@ -133,33 +133,6 @@ const haran = {
 
 ---
 
-# 🏆 LeetCode Analytics
-
-<div align="center">
-
-<img width="49%" src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=contest" />
-
-<img width="49%" src="https://leetcode-stats.vercel.app/api?username=haranck21&theme=Dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://leetcode.card.workers.dev/haranck21?theme=dark&font=baloo&extension=null" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=haranck21&theme=dark" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
