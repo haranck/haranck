@@ -133,7 +133,7 @@ const haran = {
 
 ---
 
-## 🏆 LeetCode Stats
+# 🏆 LeetCode Analytics
 
 <div align="center">
 
@@ -145,21 +145,16 @@ const haran = {
 
 <br/>
 
-## 🌱 LeetCode Activity
-
 <div align="center">
 
 <img width="95%" src="https://leetcode.card.workers.dev/haranck21?theme=dark&font=baloo&extension=null" />
 
 </div>
 
----
-
-## 🌌 3D Contribution Graph
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=haranck21&theme=dark" />
 
 </div>
 
