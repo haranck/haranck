@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=230&text=Haran%20CK&fontSize=55&fontColor=ffffff&color=0:fc00ff,100:00dbde&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:141E30,100:243B55&text=Haran%20Krishna%20CK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20System%20Architect%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00DBDE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Scalable+Systems+Engineer;Open+Source+Contributor;Clean+Code+Advocate;Building+The+Future+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications+⚡;TypeScript+%7C+React+%7C+Node.js;Backend+Engineering+%7C+DevOps;Creator+of+Projexa+🚀" />
 
 </div>
 
