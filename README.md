@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Haran%20Krishna%20CK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&text=HARAN.exe&fontSize=55&color=0:000000,100:003B00&fontColor=00FF41&animation=blinking" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Applications;Clean+Architecture+%7C+Redis+%7C+Docker;Real-Time+Systems+Developer;Always+Learning+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Developer+Profile...;Loading+Clean+Architecture...;Redis+Caching+Enabled...;System+Design+Mode+Activated...;Welcome+to+Haran's+GitHub+⚡" />
 
 </div>
 
