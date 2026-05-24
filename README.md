@@ -45,13 +45,13 @@
 
 ```typescript
 const haran = {
-  name        : "Haran CK",
-  role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
-  focus       : ["Clean Architecture", "Scalable Systems", "Production-ready Apps"],
-  currentBuild: "Projexa — a scalable Project Management SaaS 🚀",
-  strengths   : ["JWT Auth", "Redis Caching", "PostgreSQL", "System Design"],
-  funFact     : "I don’t just build apps — I architect systems that scale ⚡",
+  developer: "Full Stack Engineer ",
+  focusesOn: ["Backend Engineering", "Scalable Systems", "Clean Architecture"],
+  techStack: ["React", "Node.js", "TypeScript", "Docker" ,"SQL"],
+  currentlyExploring: ["DevOps", "Cloud", "Performance Optimization"],
+  lifeCycle: "Code → Debug → Optimize → Repeat ",
+  debugMode: true,
+  funFact: "I enjoy fixing bugs more than creating them ",
 };
 ```
 
