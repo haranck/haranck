@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Haran%20Krishna%20CK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=320&color=0:0F2027,50:203A43,100:2C5364&text=HARAN%20KRISHNA%20CK&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20Scalable%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+Enthusiast;Docker+%7C+Redis+%7C+AWS;Creating+Real-World+Systems+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+Applications+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL;Redis+Caching+%7C+Docker+%7C+AWS;Creator+of+Projexa+Project+Management+SaaS;I+Build+Systems+That+Scale+%E2%9A%A1" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=haranck&label=Profile%20Views&color=00F5D4&style=for-the-badge" />
 
 </div>
 
