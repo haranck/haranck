@@ -177,16 +177,8 @@ const haran = {
 
 ---
 
-# 📌 Profile Summary
-
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haranck&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haranck&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haranck&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haranck&theme=github_dark&utcOffset=5.5" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haranck&theme=github_dark" />
 
 </div>
