@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haran%20Krishna%20CK&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Haran%20Krishna%20CK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+Enthusiast;Building+Projexa+-+Project+Mgmt+SaaS;I+build+systems+that+scale+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Applications;Clean+Architecture+%7C+Redis+%7C+Docker;Real-Time+Systems+Developer;Always+Learning+⚡" />
+
+</div>
 
 <br/>
 
