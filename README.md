@@ -2,28 +2,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,23,42,22,34,57&height=200&section=header&text=Haran%20Krishna%20CK&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=16&descColor=a3b3cc" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+Architecture+Enthusiast;Building+Projexa+%E2%9A%A1" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-</div>
-<div align="center"> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haran-ck-188-954hgf/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harankrishna03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haranck)
-[![Portfolio](https://img.shields.io/badge/Portfolio-16C79A?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/haranck)
-
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=haranck&color=16c79a&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/haranck?color=16c79a&style=flat-square&logo=github)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16C79A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+Architecture+Enthusiast;Building+Projexa+%E2%9A%A1" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/haran-ck-188-954hgf/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:harankrishna03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/haranck">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/haranck">
+  <img src="https://img.shields.io/badge/Portfolio-16C79A?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=haranck&color=16c79a&style=for-the-badge&label=Profile+Views" />
+
+<img src="https://img.shields.io/github/followers/haranck?color=16c79a&style=for-the-badge&logo=github&label=Followers" />
 
 </div>
+
+---
 
 
 <div align="center">
