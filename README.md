@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&text=HARAN.exe&fontSize=55&color=0:000000,100:003B00&fontColor=00FF41&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:141E30,100:243B55&text=Haran%20Krishna%20CK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Loading+Clean+Architecture...;Redis+Caching+Enabled...;System+Design+Mode+Activated...;Welcome+to+Haran+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications+%E2%9A%A1;TypeScript+%7C+React+%7C+Node.js;Backend+Engineering+%7C+DevOps;Creator+of+Projexa+%F0%9F%9A%80" />
 
 </div>
 
