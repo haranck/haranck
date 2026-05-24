@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+Enthusiast;Docker+%7C+Redis+%7C+AWS;Creating+Real-World+Systems+%E2%9A%A1" />
 
 </div>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haran-ck-188-954hgf/)
