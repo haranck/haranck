@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=320&color=0:0F2027,50:203A43,100:2C5364&text=HARAN%20KRISHNA%20CK&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20Scalable%20Systems&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haran%20Krishna%20CK&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+Applications+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL;Redis+Caching+%7C+Docker+%7C+AWS;Creator+of+Projexa+Project+Management+SaaS;I+Build+Systems+That+Scale+%E2%9A%A1" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=haranck&label=Profile%20Views&color=00F5D4&style=for-the-badge" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+Enthusiast;Building+Projexa+-+Project+Mgmt+SaaS;I+build+systems+that+scale+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -97,49 +91,6 @@ const haran = {
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Projexa — Project Management SaaS
-> *Full-featured collaborative platform like Jira*
-
-- 🔐 JWT Auth with Role-based access control
-- ⚡ Redis caching for high performance
-- 💬 Real-time chat via Socket.io
-- 📹 Meetings integration using Jitsi
-- 💳 Stripe payments integration
-- 🐳 Dockerized & production-ready
-
-**Stack:** `TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Redis` `Socket.io` `Docker`
-
-</td>
-<td width="50%">
-
-### ✨ Timeless Aura (Ecommerce Platform)
-> *Full-stack production-grade eCommerce application*
-
-- 🛍️ Complete shopping flow (Products, Cart, Orders)
-- 🔐 Secure Authentication & session management
-- 💳 Razorpay payment gateway integration
-- 🗂️ Dynamic product & order management with MongoDB
-- 🎨 Server-side rendering using EJS
-- 🌐 Deployed for real-world usage
-
-**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `JavaScript` `Razorpay`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -160,19 +111,6 @@ const haran = {
 
 ---
 
-## 🔥 What I Focus On
-
-| 🎯 Principle | 💡 Practice |
-|---|---|
-| **Clean Code** | Readable, maintainable, SOLID principles |
-| **Scalability** | System design, caching, load balancing |
-| **Architecture** | Clean Architecture, separation of concerns |
-| **Performance** | Redis caching, query optimization, CDN |
-| **Security** | JWT, OAuth 2.0, env management via Doppler |
-| **DevOps** | Docker, Nginx, GitHub Actions CI/CD |
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
@@ -182,9 +120,3 @@ const haran = {
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haranck&theme=github_dark" />
-
-</div>
