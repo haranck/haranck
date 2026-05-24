@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:141E30,100:243B55&text=Haran%20Krishna%20CK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Haran%20Krishna%20CK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications+%E2%9A%A1;TypeScript+%7C+React+%7C+Node.js;Backend+Engineering+%7C+DevOps;Creator+of+Projexa+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+Enthusiast;Docker+%7C+Redis+%7C+AWS;Creating+Real-World+Systems+%E2%9A%A1" />
 
 </div>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haran-ck-188-954hgf/)
