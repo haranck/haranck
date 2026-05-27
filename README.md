@@ -127,6 +127,46 @@ const haran = {
 
 ---
 
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📊 Profile Stats
+
+<img src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=contest" width="100%" />
+
+</td>
+
+<td width="50%">
+
+### 🔥 Activity & Badges
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=haranck21&theme=dark" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=heatmap" width="95%" />
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
