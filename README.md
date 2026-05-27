@@ -126,42 +126,40 @@ const haran = {
 </div>
 
 ---
-
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Dashboard
 
 <div align="center">
 
 <table>
-<tr>
+<tr border="none">
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 📊 Profile Stats
-
-<img src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=contest" width="100%" />
+<img 
+src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20" 
+width="100%" 
+alt="LeetCode Stats" />
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔥 Activity & Badges
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=haranck21&theme=dark" width="100%" />
+<img 
+src="https://leetcode-badge-showcase.vercel.app/api?username=haranck21&theme=dark" 
+width="100%" 
+alt="LeetCode Badges" />
 
 </td>
 
 </tr>
 </table>
 
-</div>
+<br/>
 
----
-
-## 📈 LeetCode Progress
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=heatmap" width="95%" />
+<img 
+src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=contest&border=0&radius=20" 
+width="95%" 
+alt="LeetCode Contest Stats" />
 
 </div>
 
