@@ -154,13 +154,6 @@ alt="LeetCode Badges" />
 </tr>
 </table>
 
-<br/>
-
-<img 
-src="https://leetcard.jacoblin.cool/haranck21?theme=dark&font=Nunito&ext=contest&border=0&radius=20" 
-width="95%" 
-alt="LeetCode Contest Stats" />
-
 </div>
 
 ---
