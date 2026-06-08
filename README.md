@@ -12,12 +12,11 @@
 
 💻 TypeScript • React • Node.js • NestJS • MongoDB • PostgreSQL
 
-
-<br/><br/>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Clean+Architecture+Enthusiast;Backend+Focused+Full+Stack+Developer;Always+Learning+and+Building" />
 
-</div>
+<br><br>
 
 <a href="https://www.linkedin.com/in/haran-ck-188-954hgf/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,11 +30,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/haranck">
+<a href="YOUR_PORTFOLIO_LINK">
   <img src="https://img.shields.io/badge/Portfolio-16C79A?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-<br/><br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=haranck&color=16c79a&style=for-the-badge&label=Profile+Views" />
 
