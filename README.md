@@ -4,9 +4,14 @@
 
 <h3>Full Stack Developer | Building Scalable Real-World Applications</h3>
 
-<br/>
+<br>
 
-TypeScript • JavaScript • React • Node.js • NestJS • MongoDB • PostgreSQL • MySQL • Redis • Docker
+🚀 Building scalable applications
+
+⚡ Exploring Clean Architecture & System Design
+
+💻 TypeScript • React • Node.js • NestJS • MongoDB • PostgreSQL
+
 
 <br/><br/>
 
