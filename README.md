@@ -2,16 +2,17 @@
 
 <h1>Hi 👋, I'm Haran Krishna CK</h1>
 
-<h3>Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3>Full Stack Developer | Building Scalable Real-World Applications</h3>
 
-<br>
+<br/>
 
-🚀 Building scalable applications  
-⚡ Exploring Clean Architecture & System Design  
-💻 TypeScript • React • Node.js • MongoDB
-
+TypeScript • JavaScript • React • Node.js • NestJS • MongoDB • PostgreSQL • MySQL • Redis • Docker
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Clean+Architecture+Enthusiast;Backend+Focused+Full+Stack+Developer;Always+Learning+and+Building" />
+
+</div>
 
 <a href="https://www.linkedin.com/in/haran-ck-188-954hgf/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
