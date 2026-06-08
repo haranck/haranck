@@ -6,15 +6,12 @@
 
 <br>
 
-🚀 Building scalable applications
 
 ⚡ Exploring Clean Architecture & System Design
 
 💻 TypeScript • React • Node.js • NestJS • MongoDB • PostgreSQL
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Clean+Architecture+Enthusiast;Backend+Focused+Full+Stack+Developer;Always+Learning+and+Building" />
 
 <br><br>
 
