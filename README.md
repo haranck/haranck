@@ -11,7 +11,6 @@
 
 💻 TypeScript • React • Node.js • NestJS • MongoDB • PostgreSQL
 
-<br><br>
 
 <br><br>
 
