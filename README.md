@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,23,42,22,34,57&height=200&section=header&text=Haran%20Krishna%20CK&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=16&descColor=a3b3cc" width="100%"/>
+<h1>Hi 👋, I'm Haran Krishna CK</h1>
 
-<br/>
+<h3>Full Stack Developer | MERN Stack Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16C79A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+Architecture+Enthusiast;Building+Projexa+%E2%9A%A1" alt="Typing SVG" />
+<br>
+
+🚀 Building scalable applications  
+⚡ Exploring Clean Architecture & System Design  
+💻 TypeScript • React • Node.js • MongoDB
+
 
 <br/><br/>
 
