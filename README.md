@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Haran Krishna CK</h1>
+# 𝙃𝙖𝙧𝙖𝙣 𝙆𝙧𝙞𝙨𝙝𝙣𝙖 𝘾 𝙆
 
 <h3>Full Stack Developer | Building Scalable Real-World Applications</h3>
 
