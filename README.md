@@ -3,16 +3,6 @@
 # 𝙃𝙖𝙧𝙖𝙣 𝙆𝙧𝙞𝙨𝙝𝙣𝙖 𝘾 𝙆
 
 
-<h3>Full Stack Developer | Building Scalable Real-World Applications</h3>
-
-<br>
-
-
-⚡ Exploring Clean Architecture & System Design
-
-💻 TypeScript • React • Node.js • NestJS • MongoDB • PostgreSQL
-
-
 <br><br>
 
 <a href="https://www.linkedin.com/in/haran-ck-188-954hgf/">
