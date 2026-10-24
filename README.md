@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:16c79a&height=220&section=header&text=Haran%20Krishna%20C%20K&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=fadeIn" width="100%" alt="Haran Krishna C K" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f6e56,100:0d1117&height=170&section=header&text=Haran%20Krishna%20C%20K&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=17&descAlignY=68&animation=fadeIn" width="100%" alt="Haran Krishna C K" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Clean+code+%E2%80%A2+Great+user+experience;Open+to+new+opportunities" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;TypeScript+%E2%80%A2+React+%E2%80%A2+Nest.js+%E2%80%A2+Node.js;Open+to+new+opportunities" alt="Typing intro" />
 
 <p>
-<a href="https://www.linkedin.com/in/haran-ck-188-954hgf/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=16c79a" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/haran-ck-188-954hgf/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE2Yzc5YSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uODUgMS42MzctMS43NSAzLjM3LTEuNzUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:harankrishna03@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=16c79a" alt="Gmail" /></a>&nbsp;
 <a href="https://github.com/haranck"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=16c79a" alt="GitHub" /></a>&nbsp;
 <a href="https://haranck.online/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=16c79a" alt="Portfolio" /></a>
@@ -16,11 +16,9 @@
 <img src="https://img.shields.io/github/followers/haranck?label=Followers&logo=github&style=for-the-badge&color=16c79a&labelColor=161b22" alt="Followers" />
 </p>
 
-<br />
+<br /><br />
 
-<h3>Tech Stack</h3>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,docker&theme=dark&perline=11" alt="Tech stack" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f6e56,100:0d1117&height=4&section=footer" width="100%" alt="" />
 
 </div>
 
