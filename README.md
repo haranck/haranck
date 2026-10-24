@@ -1,31 +1,26 @@
 <div align="center">
 
-# 𝙃𝙖𝙧𝙖𝙣 𝙆𝙧𝙞𝙨𝙝𝙣𝙖 𝘾 𝙆
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:16c79a&height=220&section=header&text=Haran%20Krishna%20C%20K&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=fadeIn" width="100%" alt="Haran Krishna C K" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16C79A&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Clean+code+%E2%80%A2+Great+user+experience;Open+to+new+opportunities" alt="Typing intro" />
 
-<br><br>
+<p>
+<a href="https://www.linkedin.com/in/haran-ck-188-954hgf/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=16c79a" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:harankrishna03@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=16c79a" alt="Gmail" /></a>&nbsp;
+<a href="https://github.com/haranck"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=16c79a" alt="GitHub" /></a>&nbsp;
+<a href="https://haranck.online/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=16c79a" alt="Portfolio" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/haran-ck-188-954hgf/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=haranck&label=Profile%20Views&color=16c79a&style=for-the-badge" alt="Profile views" />&nbsp;
+<img src="https://img.shields.io/github/followers/haranck?label=Followers&logo=github&style=for-the-badge&color=16c79a&labelColor=161b22" alt="Followers" />
+</p>
 
-<a href="mailto:harankrishna03@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br />
 
-<a href="https://github.com/haranck">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<h3>Tech Stack</h3>
 
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-16C79A?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=haranck&color=16c79a&style=for-the-badge&label=Profile+Views" />
-
-<img src="https://img.shields.io/github/followers/haranck?color=16c79a&style=for-the-badge&logo=github&label=Followers" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,docker&theme=dark&perline=11" alt="Tech stack" /></a>
 
 </div>
 
